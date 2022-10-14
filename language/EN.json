@@ -4,31 +4,31 @@
     "AUTHOR"  : "sanuwa official",
     "STRINGS" : { 
                   "aqua" : {   
-                            "COMMAND"  : "Command",
-                            "DESC"     : "Description",
-                            "EXAMPLE"  : "Example",
+                            "COMMAND"  : "مهمه",
+                            "DESC"     : "الوصف",
+                            "EXAMPLE"  : "مثال",
                             "NOT_FOUND": "*I couldnt find a command like this*",
-                            "WARN"     : "Warn"
+                            "WARN"     : "انذار"
                            },
                   "yt" :   {
                             "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
                             "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
-                            "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
+                            "S_YT"     : "*🔍البحث في يوتيوب...*" ,
                             "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
                             "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
                             "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
                             "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
                             "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
-                            "NOT_VID"  : "*VIDEO NOT FOUND‼️*", 
-                            "N_IG "    : "🧜‍♀️💬ENTER A INSTAGRAM LINK",
-                            "N_FOUND"  : "*NOT FOUND‼️*"
+                            "NOT_VID"  : "*الفيديو غير موجود‼️*", 
+                            "N_IG "    : "🧜‍♀️💬اعطني لينك الانستغرام",
+                            "N_FOUND"  : "*لا يوجد‼️*"
                           } ,
                 "admin" : {  
-                             "UR_NOT_ADMIN": "*You are not admin in this group!*",
-                             "IM_NOT_ADMIN": "*I am not admin in this group!*",
-                             "BANNED": "kicked out of the group!",
-                             "GIVE_ME_USER": "*Give me a user!*" ,
-                             "USER_IS_ADMIN" : "*Can not kick group Admins!*" ,
+                             "UR_NOT_ADMIN": !*",
+                             "IM_NOT_ADMIN": "*انت مش ادمن يبيض!*",
+                             "BANNED": "ما اقدر ازيل مشرف!",
+                             "GIVE_ME_USER": "*اعطني مستخدم!*" ,
+                             "USER_IS_ADMIN" : "*ما ازيل مشرف!*" ,
                              "ADDED"         : "added to the group!!" ,
                              "E_USER"        : "*🧜‍♀️💬  Enter the number to be added to the group with the country code without + mark and space.*",
                              "ISN_ADMIN"     : "*🧜‍♀️💬The person you mentioned is not a group admin.*",
@@ -40,11 +40,11 @@
     
                            } ,
                 "stic" : {
-                              "NEED"   : "*🧜‍♀️💬 please mention an image or video*" ,
-                              "C_STIC" : "```🧰creating sticker...```" ,
-                              "N_STIC" : "*🧜‍♀️💬 Please mention a sticker.*" ,
-                              "C_IMG"  : "```🧰converting sticker to image...```" ,
-                              "C_VID"  : "```🧰converting animated sticker to video...```" 
+                              "NEED"   : "*💬 منشن صوره او فيديو*" ,
+                              "C_STIC" : "```🧰صناعة الملصق انتظر...```" ,
+                              "N_STIC" : "*🧜‍♀️💬 منشن ملصق.*" ,
+                              "C_IMG"  : "```🧰جار تحويل الملصق لصوره...```" ,
+                              "C_VID"  : "```🧰جار تحويل الملصق لفيديو...```" 
                            },
                
                 "apk"  :  {  
