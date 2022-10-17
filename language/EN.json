@@ -7,15 +7,15 @@
                             "COMMAND"  : "مهمه",
                             "DESC"     : "الوصف",
                             "EXAMPLE"  : "مثال",
-                            "NOT_FOUND": "*I couldnt find a command like this*",
+                            "NOT_FOUND": "*لم أتمكن من العثور على أمر مثل هذا*",
                             "WARN"     : "انذار"
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
-                            "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
+                            "N_SONG"   : "*🧜‍♀️💬جيب اسم الموسيقي*\nex : .song faded" ,
+                            "NOT_SONG" : "*لا يوجد موسيقي‼️*" ,
                             "S_YT"     : "*🔍البحث في يوتيوب...*" ,
                             "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
+                            "N_VID"    : "*🧜‍♀️💬ابحث بلينك اليوتيوب*\nex : .video https://youtu.be/MBPIx3f-VIA" ,
                             "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
                             "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
                             "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
@@ -24,19 +24,19 @@
                             "N_FOUND"  : "*لا يوجد‼️*"
                           } ,
                 "admin" : {  
-                             "UR_NOT_ADMIN": !*",
-                             "IM_NOT_ADMIN": "*انت مش ادمن يبيض!*",
+                             "UR_NOT_ADMIN": "*انت مش مشرف للأسف*",
+                             "IM_NOT_ADMIN": "*انا مش مشرف للأسف!*",
                              "BANNED": "ما اقدر ازيل مشرف!",
                              "GIVE_ME_USER": "*اعطني مستخدم!*" ,
                              "USER_IS_ADMIN" : "*ما ازيل مشرف!*" ,
-                             "ADDED"         : "added to the group!!" ,
-                             "E_USER"        : "*🧜‍♀️💬  Enter the number to be added to the group with the country code without + mark and space.*",
-                             "ISN_ADMIN"     : "*🧜‍♀️💬The person you mentioned is not a group admin.*",
-                             "IS_ADMIN"      : "*🧜‍♀️💬The person you mentioned is a group admin.*",
-                             "MUTE"          : "*🧜‍♀️💬The group chat has muted!.*",
-                             "UNMUTE"        : "*🧜‍♀️💬The group chat has unmuted!.*",
-                             "PROMOTE"       : "has been promoted !",
-                             "DEMOTE"        : "has been demoted !"
+                             "ADDED"         : "تم اضافته!!" ,
+                             "E_USER"        : "*🧜‍♀️💬  أدخل الرقم المراد إضافته إلى المجموعة مع رمز البلد بدون علامة + ومسافة.*",
+                             "ISN_ADMIN"     : "*🧜‍♀️💬الشخص الذي ذكرته ليس مسؤول مجموعة.*",
+                             "IS_ADMIN"      : "*🧜‍♀️💬الشخص الذي ذكرته هو مسؤول المجموعة.*",
+                             "MUTE"          : "*🧜‍♀️💬تم قفل القروب!.*",
+                             "UNMUTE"        : "*🧜‍♀️💬تم قفل القروب!.*",
+                             "PROMOTE"       : "تم ترقيته !",
+                             "DEMOTE"        : "تم اقالته !"
     
                            } ,
                 "stic" : {
@@ -53,7 +53,7 @@
     
                            },
          "filters": {
-            "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list.",
+            "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show s your filter list.",
             "NO_FILTER": "*❌ There are no filters in this chat!*",
             "FILTERS": "*🔎 There is your filters in this chat:*",
             "NEED_REPLY": "*❌ Please type in reply!*\n*Example:*",
@@ -64,12 +64,12 @@
             "DELETED": "*✅ The filter was successfully deleted!*"
         },
         "greetings": {
-            "NOT_SET_WELCOME": "*🧜‍♀️💬You don't set the welcome message yet.!*\n**To set:** ```.welcome hi && hi#how are you?```",
+            "NOT_SET_WELCOME": "*🧜‍♀️💬You don t set the welcome message yet.!*\n**To set:** ```.welcome hi && hi#how are you?```",
             "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
             "NEED_WELCOME_TEXT": "*🧜‍♀️💬You must write a message to set up the welcome message.*\n*Example:* ```.welcome hi && hi#how are you?```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
             "WELCOME_SETTED": "*✅ Welcome message has been set successfully!*",
-            "NOT_SET_GOODBYE": "*🧜‍♀️💬You didn't set a goodbye message!*\n*To set:* ```.goodbye bye && bye#see ya```",
+            "NOT_SET_GOODBYE": "*🧜‍♀️💬You didn t set a goodbye message!*\n*To set:* ```.goodbye bye && bye#see ya```",
             "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
             "NEED_GOODBYE_TEXT": "*🧜‍♀️💬You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye bye && bye#see ya```",
             "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
