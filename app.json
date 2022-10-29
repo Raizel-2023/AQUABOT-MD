@@ -65,7 +65,7 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://chat.whatsapp.com/CMp1e9NHmHU5K5sCM2mmKn" ,
+            "value": "https://chat.whatsapp.com/DHq2KYcAzWG95WTpzVQx3D" ,
             "required": true
       },
        "FOOTER": {
@@ -176,17 +176,17 @@
       },
          "ADD_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "تم اضافته" ,
             "required": true
       },
         "PROMOTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "تم ترقية العبد الفقير" ,
             "required": true
       },
          "DEMOTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "تم نزع الحكم ونزع الكرسي" ,
             "required": true
       },
          "MUTE_MESSAGE": {
