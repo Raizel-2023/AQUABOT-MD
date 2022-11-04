@@ -10,16 +10,17 @@
      "env": {
             "AQUA_SESSION": {
             "description": "",
+            "value": "AQUA=o85Q1I6Q#-GA1sSr-GbS1Nii87dZofAwvrSeJmSVW_d-BXKYUWm8" ,    
             "required": true
              },
             "NO_ONLINE": {
             "description": "",
             "required": true,
-             "value": "false"    
+             "value": "on"    
              },
             "ANTI_BOT": {
             "description": "",
-            "value": "false" ,    
+            "value": "on" ,    
             "required": true
              },
             "ONLY_GROUP": {
@@ -75,7 +76,7 @@
       },
      "ANTI_LINK": {
             "description": "",
-            "value": "false" ,
+            "value": "on" ,
             "required": true
       },
        "CAPTION": {
@@ -85,17 +86,17 @@
       },
        "INBOX_BLOCK": {
             "description": "",
-            "value": "false" ,
+            "value": "on" ,
             "required": true
       },
        "INBOX_BLOCK_MSG": {
             "description": "",
-            "value": "default" ,
+            "value": "تم ابلع بلوك" ,
             "required": true
       },
       "ALIVE_MESSAGE": {
             "description": "",
-            "value": "default", 
+            "value": "مرحباً انا بوت رايزل وانا اونلاين يا عزيزي ارحو استخدام البوت بعقلانيه وعدم البحث عما يغضب الله تعالى", 
             "required": true
       },
       "ALIVE_LOGO": {
@@ -146,7 +147,7 @@
       },
          "SUDO": {
             "description": "",
-            "value": "" ,
+            "value": "967770500831" ,
             "required": false
       },
          "LANGUAGE": {
@@ -171,7 +172,7 @@
       },
          "BAN_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "اوت برا 😹😹" ,
             "required": true
       },
          "ADD_MESSAGE": {
@@ -191,17 +192,17 @@
       },
          "MUTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "تم قفل القروب" ,
             "required": true
       },
          "UNMUTE_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "تم فتح القروب" ,
             "required": true
       },
         "KICKME_MESSAGE": {
             "description": "",
-            "value": "default" ,
+            "value": "وداعاً" ,
             "required": true
       }  
         
